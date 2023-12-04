@@ -88,3 +88,6 @@ Restaurant
 - `Restaurant average_star_rating()`
   - returns the average star rating for a restaurant based on its reviews
   - Reminder: you can calculate the average by adding up all the ratings and dividing by the number of ratings
+
+## Licence
+This project is free to use and does not require any license
